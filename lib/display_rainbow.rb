@@ -9,7 +9,7 @@ def display_rainbow(colors) #method(argument)
    #{colors[0]} is red
    #{colors[1]} is orange
    ... and so on
-   
-  
+   The result will be R: red, O: orange, Y: yellow, G: green, B: blue, I: indigo, V: violet
+  =end
   
 end
